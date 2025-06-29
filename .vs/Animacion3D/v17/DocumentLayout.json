@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gsala\\OneDrive\\Documentos\\GitHub\\Animacion3D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBDCF880-5D25-8C06-EF8D-F1B61BF9801C}|Assembly-CSharp.csproj|c:\\users\\gsala\\onedrive\\documentos\\github\\animacion3d\\assets\\models\\gavi\\triggercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBDCF880-5D25-8C06-EF8D-F1B61BF9801C}|Assembly-CSharp.csproj|solutionrelative:assets\\models\\gavi\\triggercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "triggercontroller.cs",
+              "DocumentMoniker": "C:\\Users\\gsala\\OneDrive\\Documentos\\GitHub\\Animacion3D\\Assets\\Models\\Gavi\\triggercontroller.cs",
+              "RelativeDocumentMoniker": "Assets\\Models\\Gavi\\triggercontroller.cs",
+              "ToolTip": "C:\\Users\\gsala\\OneDrive\\Documentos\\GitHub\\Animacion3D\\Assets\\Models\\Gavi\\triggercontroller.cs",
+              "RelativeToolTip": "Assets\\Models\\Gavi\\triggercontroller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T02:39:30.066Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
